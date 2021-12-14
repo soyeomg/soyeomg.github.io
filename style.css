@@ -17,7 +17,7 @@
     margin-right: 100px;
   }
   .header .item:nth-child(1){
-    background-image: url(../img/12.png);
+    background-image: url(./12.png);
     background-repeat: no-repeat;
     background-position: left;
     grid-column-start: 1;
@@ -79,14 +79,14 @@
 }
 
 .main_content .item:nth-child(2){ 
-  background-image: url(../img/01.jpg);
+  background-image: url(./01.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .main_content .item:nth-child(2) .back{
 
-  background-image: url(../img/01.jpg);
+  background-image: url(./01.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 
@@ -146,7 +146,7 @@
   text-align: justify;
 }
 .main_content .item:nth-child(6){
-  background-image: url(../img/10.jpg);
+  background-image: url(./10.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -174,7 +174,7 @@
   grid-column-start: 4;
   grid-column-end: 5;
 
-  background-image: url(../img/13.png);
+  background-image: url(./13.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -186,7 +186,7 @@
   grid-column-start: 1;
   grid-column-end: 3;
 
-  background-image: url(../img/14.png);
+  background-image: url(./14.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -208,25 +208,25 @@
   font-size: 20px;
 }
 .main_content .item:nth-child(11){
-  background-image: url(../img/15.png);
+  background-image: url(./15.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 .main_content .item:nth-child(12){
-  background-image: url(../img/16.png);
+  background-image: url(./16.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 .main_content .item:nth-child(13){
-  background-image: url(../img/17.png);
+  background-image: url(./17.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 .main_content .item:nth-child(14){
-  background-image: url(../img/18.png);
+  background-image: url(./18.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
